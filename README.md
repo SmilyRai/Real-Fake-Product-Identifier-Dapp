@@ -28,4 +28,4 @@ HOW TO INSTALL-
 17) Now, start the XAMMP server. 
 18) Paste the project folder inside htdocs folder of the root directory.
 19) Open phpmyadmin, go to SQL and paste the sql queries provided inside the sql folder.
-20) Type the URL in the browser: http://localhost/supplychain
+20) Type the URL in the browser: https://localhost/supplychain
